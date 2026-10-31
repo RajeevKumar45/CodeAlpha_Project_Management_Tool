@@ -306,7 +306,7 @@ git push -u origin main
 ---
 
 ## 👨‍💻 Internship Submission Details
-- **Internship**: CodeAlpha Full Stack Web Development Internship
+- **Internship**: CodeAlpha Full Stack Web Development Internship 1 month internship working on real world project
 - **Project**: CodeAlpha_Project_Management_Tool
 - **Author**: Full Stack Developer Intern
-- **Status**: Completed & Ready for Review
+- **Status**: Completed & Ready for Review 
