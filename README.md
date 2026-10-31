@@ -1,6 +1,6 @@
 # 🚀 CodeAlpha Project Management Tool
 
-A full-stack modern Project Management Web Application (similar to a mini Trello / Asana) built with the **MERN Stack** (MongoDB, Express.js, React.js with Vite, Node.js) for the **CodeAlpha Full Stack Development Internship**.
+A full-stack modern Project Management Web Application (similar to a mini Trello / Asana) built with the **MERN Stack** (MongoDB, Express.js, React.js with Vite, Node.js) for the **CodeAlpha Full Stack Development Internship**. under consideration
 
 ---
 
